@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+.grid {
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 560px;
+    height: 560px;
+    border: solid black;
+}
+  
+.grid div {
+    width: 20px;
+    height: 20px;
+}
+h3{
+    color: white;
+}
+
+.pac-dot {
+    background-image: url("./media/Canaval/globo.png");
+}
+
+.wall {
+    background-color: blue;
+}
+
+.power-pellet {
+    background-image: url("./media/Canaval/caramelo.png");
+}
+
+.blinky {
+    background-image: url("./media/Canaval/mascara-de-carnaval.png");
+}
+
+.pinky {
+    background-image: url("./media/Canaval/mascara-de-carnaval.png");
+}
+
+.inky {
+    background-image: url("./media/Canaval/mascara-de-carnaval.png");
+}
+
+.clyde {
+    background-image: url("./media/Canaval/mascara-de-carnaval.png");   
+}
+
+.pac-man {
+    background-image: url("./media/Canaval/chico.png");
+}
+
+.scared-ghost {
+    background-image: url("./media/Canaval/serpentina.png");
+}
+
